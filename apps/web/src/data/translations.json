@@ -1,0 +1,278 @@
+{
+  "en-US": {
+    "header": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "experience": "Experience",
+      "contact": "Contact",
+      "menu": "Menu"
+    },
+    "footer": {
+      "subtitle": "Software Engineer & Student passionate about building innovative solutions.",
+      "quickLinks": "Quick Links",
+      "connect": "Connect",
+      "rights": "All rights reserved."
+    },
+    "home": {
+      "metaTitle": "Davi Vinicius - Software Engineer & Student",
+      "metaDesc": "Portfolio of Davi Vinicius, a passionate Software Engineer and Student specializing in modern web development.",
+      "badge": "Welcome to my portfolio",
+      "title": "Davi Vinicius",
+      "subtitle": "Software Engineer & Student",
+      "description": "Passionate about creating innovative solutions through clean code and modern technologies. Specializing in full-stack development with a focus on user experience and performance.",
+      "viewProjects": "View My Projects",
+      "getInTouch": "Get In Touch",
+      "scroll": "Scroll to explore"
+    },
+    "about": {
+      "metaTitle": "About - Davi Vinicius",
+      "metaDesc": "Learn more about Davi Vinicius, a Software Engineering student and developer passionate about creating innovative solutions.",
+      "title": "About Me",
+      "subtitle": "Get to know more about my journey, skills, and passion for technology",
+      "hello": "Hello, I'm Davi",
+      "p1": "I'm a passionate Software Engineering student with a deep love for creating innovative digital solutions. My journey in technology began with curiosity and has evolved into a commitment to building impactful applications.",
+      "p2": "I specialize in full-stack development, with expertise in modern frameworks and technologies. I believe in writing clean, maintainable code and creating user experiences that make a difference.",
+      "p3": "When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.",
+      "skillsTitle": "Technical Skills",
+      "educationTitle": "Education",
+      "edu1": {
+        "degree": "Bachelor of Software Engineering",
+        "institution": "Pontifícia Universidade Católica de Minas Gerais",
+        "period": "2023 – Present",
+        "description": "Education focused on software development, systems architecture, and best engineering practices. During the course, I have been acquiring knowledge in programming, systems modeling, data structures, databases, and web development."
+      }
+    },
+    "projects": {
+      "metaTitle": "Projects - Davi Vinicius",
+      "metaDesc": "Explore the portfolio of projects by Davi Vinicius, showcasing innovative web applications and software solutions.",
+      "title": "My Projects",
+      "subtitle": "A collection of projects showcasing my skills and passion for development",
+      "viewProject": "View Project",
+      "sourceCode": "Source Code",
+      "items": {
+        "p1": {
+          "title": "Java Parkings – Parking Management System",
+          "description": "Project developed in Java for parking management. Features customer and vehicle registration, vehicle entry and exit control, automatic calculation of stay duration and amount to be paid, and parking usage history logging.",
+          "date": "2024",
+          "technologies": ["Java"]
+        },
+        "p2": {
+          "title": "Hotel Management System",
+          "description": "System developed for hotel accommodation management. Features customer, employee, and room registration, stay logging, room availability control, and data persistence using files.",
+          "date": "2023",
+          "technologies": ["C"]
+        },
+        "p3": {
+          "title": "Car Dealership System (Database Modeling)",
+          "description": "Project focused on data modeling for a car dealership. Includes Entity-Relationship Modeling (ERM), vehicle, customer, and salesperson registration, sales logging and transaction history, and salesperson commission control.",
+          "date": "2023",
+          "technologies": ["SQL", "Database Modeling", "ERM"]
+        }
+      }
+    },
+    "experience": {
+      "metaTitle": "Experience - Davi Vinicius",
+      "metaDesc": "Professional experience and career journey of Davi Vinicius, including internships, projects, and contributions.",
+      "title": "Experience",
+      "subtitle": "My professional journey and contributions to the tech community",
+      "highlights": "Key Highlights:",
+      "items": {
+        "e1": {
+          "role": "IT Technician",
+          "company": "Technical Support and Maintenance",
+          "duration": "Present",
+          "description": "Worked with technical support and equipment maintenance.",
+          "highlights": [
+            "Computer maintenance and configuration",
+            "User support",
+            "Software and operating systems installation",
+            "Diagnosis and resolution of technical problems"
+          ]
+        },
+        "e2": {
+          "role": "Technical Competencies",
+          "company": "Skills & Methodologies",
+          "duration": "Continuous",
+          "description": "Technical skills acquired through studying and practice.",
+          "highlights": [
+            "Languages: C, Java, JavaScript, HTML",
+            "Database: MySQL",
+            "Modeling: UML, Process Modeling, Database Modeling",
+            "Tools: Git, GitHub",
+            "Methodologies: Requirements Engineering and software development"
+          ]
+        }
+      }
+    },
+    "contact": {
+      "metaTitle": "Contact - Davi Vinicius",
+      "metaDesc": "Get in touch with Davi Vinicius. Send a message or connect through social media.",
+      "title": "Get In Touch",
+      "subtitle": "Have a question or want to work together? I'd love to hear from you!",
+      "formTitle": "Send a Message",
+      "nameLabel": "Name *",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email *",
+      "emailPlaceholder": "your.email@example.com",
+      "messageLabel": "Message *",
+      "messagePlaceholder": "Your message...",
+      "sending": "Sending...",
+      "send": "Send Message",
+      "connectTitle": "Connect With Me",
+      "collabTitle": "Let's Collaborate",
+      "collabP1": "to say hi, feel free to reach out!",
+      "collabP2": "I typically respond within 24-48 hours. Looking forward to connecting with you!",
+      "errors": {
+        "nameReq": "Name is required",
+        "emailReq": "Email is required",
+        "emailInv": "Please enter a valid email address",
+        "msgReq": "Message is required",
+        "valTitle": "Validation Error",
+        "valDesc": "Please fill in all required fields correctly."
+      },
+      "success": {
+        "title": "Message Sent Successfully!",
+        "desc": "Thank you for reaching out. I'll get back to you soon."
+      }
+    }
+  },
+  "pt-BR": {
+    "header": {
+      "home": "Início",
+      "about": "Sobre",
+      "projects": "Projetos",
+      "experience": "Experiência",
+      "contact": "Contato",
+      "menu": "Menu"
+    },
+    "footer": {
+      "subtitle": "Estudante e Engenheiro de Software apaixonado por criar soluções inovadoras.",
+      "quickLinks": "Links Rápidos",
+      "connect": "Conectar",
+      "rights": "Todos os direitos reservados."
+    },
+    "home": {
+      "metaTitle": "Davi Vinicius - Engenheiro de Software & Estudante",
+      "metaDesc": "Portfólio de Davi Vinicius, um apaixonado Engenheiro de Software e Estudante especializado em desenvolvimento web moderno.",
+      "badge": "Bem-vindo ao meu portfólio",
+      "title": "Davi Vinicius",
+      "subtitle": "Engenheiro de Software & Estudante",
+      "description": "Apaixonado por criar soluções inovadoras através de código limpo e tecnologias modernas. Especializado em desenvolvimento full-stack com foco na experiência do usuário e performance.",
+      "viewProjects": "Ver Meus Projetos",
+      "getInTouch": "Entrar em Contato",
+      "scroll": "Role para explorar"
+    },
+    "about": {
+      "metaTitle": "Sobre - Davi Vinicius",
+      "metaDesc": "Saiba mais sobre Davi Vinicius, estudante de Engenharia de Software e desenvolvedor apaixonado por criar soluções inovadoras.",
+      "title": "Sobre Mim",
+      "subtitle": "Conheça mais sobre minha jornada, habilidades e paixão por tecnologia",
+      "hello": "Olá, eu sou o Davi",
+      "p1": "Sou um estudante apaixonado por Engenharia de Software com um profundo amor por criar soluções digitais inovadoras. Minha jornada na tecnologia começou com curiosidade e evoluiu para um compromisso em construir aplicações impactantes.",
+      "p2": "Especializo-me em desenvolvimento full-stack, com experiência em frameworks e tecnologias modernas. Acredito em escrever código limpo e sustentável e em criar experiências de usuário que fazem a diferença.",
+      "p3": "Quando não estou programando, você me encontrará explorando novas tecnologias, contribuindo para projetos de código aberto ou compartilhando conhecimento com a comunidade de desenvolvedores.",
+      "skillsTitle": "Habilidades Técnicas",
+      "educationTitle": "Educação",
+      "edu1": {
+        "degree": "Bacharelado em Engenharia de Software",
+        "institution": "Pontifícia Universidade Católica de Minas Gerais",
+        "period": "2023 – Presente",
+        "description": "Formação focada no desenvolvimento de software, arquitetura de sistemas e boas práticas de engenharia. Durante o curso venho adquirindo conhecimentos em programação, modelagem de sistemas, estruturas de dados, banco de dados e desenvolvimento web."
+      }
+    },
+    "projects": {
+      "metaTitle": "Projetos - Davi Vinicius",
+      "metaDesc": "Explore o portfólio de projetos de Davi Vinicius, apresentando aplicações web inovadoras e soluções de software.",
+      "title": "Meus Projetos",
+      "subtitle": "Uma coleção de projetos que demonstram minhas habilidades e paixão por desenvolvimento",
+      "viewProject": "Ver Projeto",
+      "sourceCode": "Código Fonte",
+      "items": {
+        "p1": {
+          "title": "Java Parkings – Sistema de Gestão de Estacionamentos",
+          "description": "Projeto desenvolvido em Java para gerenciamento de estacionamentos. Cadastro de clientes e veículos, controle de entrada e saída de veículos, cálculo automático do tempo de permanência e valor a ser pago, registro do histórico de utilização do estacionamento.",
+          "date": "2024",
+          "technologies": ["Java"]
+        },
+        "p2": {
+          "title": "Sistema de Gestão de Hotel",
+          "description": "Sistema desenvolvido para gerenciamento de hospedagens em um hotel. Cadastro de clientes, funcionários e quartos, registro de estadias, controle de disponibilidade de quartos, persistência de dados utilizando arquivos.",
+          "date": "2023",
+          "technologies": ["C"]
+        },
+        "p3": {
+          "title": "Sistema de Concessionária de Veículos (Modelagem de Banco de Dados)",
+          "description": "Projeto focado em modelagem de dados para uma concessionária. Modelagem Entidade-Relacionamento (MER), cadastro de veículos, clientes e vendedores, registro de vendas e histórico de transações, controle de comissões de vendedores.",
+          "date": "2023",
+          "technologies": ["SQL", "Modelagem de Banco de Dados", "MER"]
+        }
+      }
+    },
+    "experience": {
+      "metaTitle": "Experiência - Davi Vinicius",
+      "metaDesc": "Experiência profissional e jornada de carreira de Davi Vinicius, incluindo estágios, projetos e contribuições.",
+      "title": "Experiência",
+      "subtitle": "Minha jornada profissional e contribuições para a comunidade de tecnologia",
+      "highlights": "Principais Destaques:",
+      "items": {
+        "e1": {
+          "role": "Técnico de TI",
+          "company": "Suporte e Manutenção",
+          "duration": "Atual",
+          "description": "Atuação com suporte técnico e manutenção de equipamentos.",
+          "highlights": [
+            "Manutenção e configuração de computadores",
+            "Suporte a usuários",
+            "Instalação de softwares e sistemas operacionais",
+            "Diagnóstico e resolução de problemas técnicos"
+          ]
+        },
+        "e2": {
+          "role": "Competências Técnicas",
+          "company": "Habilidades e Metodologias",
+          "duration": "Contínuo",
+          "description": "Habilidades técnicas adquiridas através de estudos e prática.",
+          "highlights": [
+            "Linguagens: C, Java, JavaScript, HTML",
+            "Banco de Dados: MySQL",
+            "Modelagem: UML, Modelagem de Processos, Modelagem de Banco de Dados",
+            "Ferramentas: Git, GitHub",
+            "Metodologias: Engenharia de Requisitos e desenvolvimento de software"
+          ]
+        }
+      }
+    },
+    "contact": {
+      "metaTitle": "Contato - Davi Vinicius",
+      "metaDesc": "Entre em contato com Davi Vinicius. Envie uma mensagem ou conecte-se através das redes sociais.",
+      "title": "Entrar em Contato",
+      "subtitle": "Tem alguma dúvida ou quer trabalhar junto? Eu adoraria ouvir de você!",
+      "formTitle": "Enviar uma Mensagem",
+      "nameLabel": "Nome *",
+      "namePlaceholder": "Seu nome",
+      "emailLabel": "E-mail *",
+      "emailPlaceholder": "seu.email@exemplo.com",
+      "messageLabel": "Mensagem *",
+      "messagePlaceholder": "Sua mensagem...",
+      "sending": "Enviando...",
+      "send": "Enviar Mensagem",
+      "connectTitle": "Conecte-se Comigo",
+      "collabTitle": "Vamos Colaborar",
+      "collabP1": " Se você tem uma pergunta ou apenas quer dizer oi, sinta-se à vontade para entrar em contato!",
+      "collabP2": "Normalmente respondo dentro de 24-48 horas. Ansioso para me conectar com você!",
+      "errors": {
+        "nameReq": "Nome é obrigatório",
+        "emailReq": "E-mail é obrigatório",
+        "emailInv": "Por favor, insira um endereço de e-mail válido",
+        "msgReq": "Mensagem é obrigatória",
+        "valTitle": "Erro de Validação",
+        "valDesc": "Por favor, preencha todos os campos obrigatórios corretamente."
+      },
+      "success": {
+        "title": "Mensagem Enviada com Sucesso!",
+        "desc": "Obrigado por entrar em contato. Retornarei em breve."
+      }
+    }
+  }
+}
